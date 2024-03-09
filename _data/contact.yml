@@ -4,8 +4,8 @@
 #  icon: "fab fa-github"
 
 - type: linktree
-#   icon: 'fab fa-linkedin'  
-#   url:  'https://linksta.cc/@finhead'                 
+  icon: 'fab fa-linkedin'  
+  url:  'https://linksta.cc/@finhead'                 
 
 # type: twitter
 #  icon: "fa-brands fa-x-twitter"
